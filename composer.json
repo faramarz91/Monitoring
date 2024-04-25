@@ -1,0 +1,19 @@
+{
+    "name": "faramarz/monitoring",
+    "description": "this is for monitoring the system requirement and hardware needs, based on modules and plugins",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Faramarz\\Monitoring\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "faramarz",
+            "email": "mfaramarz1991@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
